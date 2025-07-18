@@ -24,8 +24,5 @@ This project uses IoT to automate and monitor key agricultural parameters such a
 3. Set up Blynk app with the given authentication token.
 4. Monitor data on your mobile app in real time.
 
-## 📄 Project Report
-Check full implementation details in [`report/project_report.pdf`](report/project_report.pdf).
-
 ---
 # IOT-Based-Smart-Agriculture-Monitoring-System
