@@ -15,9 +15,6 @@ This project uses IoT to automate and monitor key agricultural parameters such a
 - **IoT Platform**: Blynk
 - **Communication**: Wi-Fi
 
-## 📷 Hardware Setup
-![Circuit Diagram](diagrams/circuit_diagram.png)
-
 ## 🧠 How to Use
 1. Upload the Arduino code in `code/main.ino` to NodeMCU using Arduino IDE.
 2. Connect sensors as per the circuit diagram.
